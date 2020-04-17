@@ -7,8 +7,9 @@ This repository contains the files of my Machine Learning studies.
 * [Jupyter Notebook](https://jupyter.org/)
 * [Python 3](https://www.python.org/)
 
-## Public Datasets
+## Datasets
 
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
 * [Kaggle](https://www.kaggle.com/)
 * [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/datasets.html)
 
